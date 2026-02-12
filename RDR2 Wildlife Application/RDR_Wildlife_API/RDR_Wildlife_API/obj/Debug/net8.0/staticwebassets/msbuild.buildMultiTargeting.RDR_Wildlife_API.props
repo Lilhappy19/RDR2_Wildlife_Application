@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/RDR_Wildlife_API.props" />
+</Project>

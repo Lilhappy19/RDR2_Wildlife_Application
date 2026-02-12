@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDR_Wildlife_API", "RDR_Wildlife_API\RDR_Wildlife_API.csproj", "{48570A02-5776-4BEB-B8BB-0DF4CA39E792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48570A02-5776-4BEB-B8BB-0DF4CA39E792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48570A02-5776-4BEB-B8BB-0DF4CA39E792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48570A02-5776-4BEB-B8BB-0DF4CA39E792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48570A02-5776-4BEB-B8BB-0DF4CA39E792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

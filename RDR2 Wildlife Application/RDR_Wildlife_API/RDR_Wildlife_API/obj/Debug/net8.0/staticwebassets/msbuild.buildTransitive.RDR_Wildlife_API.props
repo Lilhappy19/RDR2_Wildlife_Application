@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/RDR_Wildlife_API.props" />
+</Project>
